@@ -1,4 +1,4 @@
-# Mathematical Optimizaiton with Python
+# Mathematical Optimization with Python
 
 This repo is to hold my Python code of solving mathematical optimization formulations. <br/><br/>
 Formulations include:
