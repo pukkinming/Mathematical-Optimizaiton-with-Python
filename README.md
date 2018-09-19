@@ -9,3 +9,6 @@ Formulations include:
 Besides, following are links to some good tutorial on Cplex with Python:
 - [Tutorial: Linear Programming, (CPLEX Part 1)](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)
 - [Tutorial: Beyond Linear Programming, (CPLEX Part 2)](https://ibmdecisionoptimization.github.io/tutorials/html/Beyond_Linear_Programming.html)
+- [CPLEX Optimization Modeling using Python](https://www-01.ibm.com/support/docview.wss?uid=swg27042869&aid=1)
+
+Google offers its own [optimization tool](https://developers.google.com/optimization/) too.
