@@ -1,4 +1,5 @@
 # Mathematical Optimizaiton with Python
 
-This repo is to hold my Python code of solving mathematical optimization formulations. Formulations include:
+This repo is to hold my Python code of solving mathematical optimization formulations. <br/>
+Formulations include:
 - [linear programming](./LP_final.ipynb)
