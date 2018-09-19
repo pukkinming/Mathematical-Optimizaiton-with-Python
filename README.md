@@ -5,3 +5,7 @@ Formulations include:
 - [linear programming](./LP/LP_final.ipynb)
 - [mixed integer programming](./MIP/MIP_final.ipynb)
 - [set covering - installing security telephones](./Set%20Covering/Installing%20Security%20Telephones.ipynb)
+
+Besides, following are links to some good tutorial on Cplex with Python:
+- [Tutorial: Linear Programming, (CPLEX Part 1)](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)
+- [Tutorial: Beyond Linear Programming, (CPLEX Part 2)](https://ibmdecisionoptimization.github.io/tutorials/html/Beyond_Linear_Programming.html)
