@@ -8,7 +8,7 @@ Formulations include:
 - [production planning and inventory control (cplex)](./Inventory%20Control/Production%20Planning%20and%20Inventory%20Control.ipynb)
 - [assign points to different groups to minimize regression MSE (cplex/gurobi)](./MIP/Assign%20points%20to%20different%20groups%20to%20minimize%20regression%20MSE.ipynb)
 
-Besides, following are links to some good tutorial on Cplex with Python:
+Besides, following are links to some good tutorial on Cplex and Gurobi with Python:
 - [Tutorial: Linear Programming, (CPLEX Part 1)](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)
 - [Tutorial: Beyond Linear Programming, (CPLEX Part 2)](https://ibmdecisionoptimization.github.io/tutorials/html/Beyond_Linear_Programming.html)
 - [CPLEX Optimization Modeling using Python](https://www-01.ibm.com/support/docview.wss?uid=swg27042869&aid=1)
