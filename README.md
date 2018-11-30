@@ -6,7 +6,7 @@ Formulations include:
 - [mixed integer programming](./MIP/MIP_final.ipynb)
 - [set covering - installing security telephones](./Set%20Covering/Installing%20Security%20Telephones.ipynb)
 - [production planning and inventory control](./Inventory%20Control/Production%20Planning%20and%20Inventory%20Control.ipynb)
-- [Assign points to different groups to minimize regression MSE](./MIP/Assign%20points%20to%20different%20groups%20to%20minimize%20regression%20MSE.ipynb)
+- [assign points to different groups to minimize regression MSE](./MIP/Assign%20points%20to%20different%20groups%20to%20minimize%20regression%20MSE.ipynb)
 
 Besides, following are links to some good tutorial on Cplex with Python:
 - [Tutorial: Linear Programming, (CPLEX Part 1)](https://ibmdecisionoptimization.github.io/tutorials/html/Linear_Programming.html)
